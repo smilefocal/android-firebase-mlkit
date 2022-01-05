@@ -13,8 +13,10 @@
 // limitations under the License.
 package com.google.firebase.samples.apps.mlkit.imagelabeling;
 
-import android.support.annotation.NonNull;
+
 import android.util.Log;
+
+import androidx.annotation.NonNull;
 
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.ml.vision.FirebaseVision;

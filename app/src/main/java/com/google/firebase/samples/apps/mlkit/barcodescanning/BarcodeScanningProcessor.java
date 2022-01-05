@@ -13,7 +13,7 @@
 // limitations under the License.
 package com.google.firebase.samples.apps.mlkit.barcodescanning;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Log;
 
 import com.google.android.gms.tasks.Task;
